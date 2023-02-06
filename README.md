@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maditya01
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on open source projects related to java
+- 🌱 I’m currently learning Java and Design Patterns
+- 💞️ I’m looking for jobs in Software Development
 - 📫 How to reach me https://www.linkedin.com/in/maditya01/
 
 <!---
