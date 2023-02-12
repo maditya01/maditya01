@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @maditya01
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java and Design Patterns
-- 💞️ I’m looking for jobs in Software Development
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning Java and Design Patterns.
+- 🌱 I have made projects in React, Nodejs and mongoDB.
+- 💞️ I’m looking for jobs in Software Development.
 - 📫 How to reach me https://www.linkedin.com/in/maditya01/
 
 <!---
